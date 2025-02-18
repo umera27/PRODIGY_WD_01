@@ -23,11 +23,13 @@ This project is a responsive landing page developed as part of my internship at 
 - Toggleable menu bar for easy navigation on mobile devices.
 - Clean and modern UI with a focus on user experience.
 - Semantic HTML for better accessibility and SEO.
-- 
+
 ## project Preview
 
-![Landing page Screenshot][IMG_20250218_191143_357.jpg]
-![Landing page Screenshot][IMG_20250218_191143_357.jpg]
+![Landing page Screenshot](IMG_20250218_191143_357.jpg)
+![Landing page Screenshot](IMG_20250218_191146_656.jpg)
+
+
 
 ## Acknowledgements
 
