@@ -7,10 +7,7 @@ This project is a responsive landing page developed as part of my internship at 
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-  
-
+- [Features](#features)  
 - [Acknowledgements](#acknowledgements)
 
 ## Technologies Used
