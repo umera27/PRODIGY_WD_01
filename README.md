@@ -26,7 +26,8 @@ This project is a responsive landing page developed as part of my internship at 
 - 
 ## project Preview
 
-![Landing page Screenshot][]
+![Landing page Screenshot][IMG_20250218_191143_357.jpg]
+![Landing page Screenshot][IMG_20250218_191143_357.jpg]
 
 ## Acknowledgements
 
