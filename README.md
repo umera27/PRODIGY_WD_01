@@ -7,7 +7,8 @@ This project is a responsive landing page developed as part of my internship at 
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
-- [Features](#features)  
+- [Features](#features)
+- [Project Overview ](#project_overview)
 - [Acknowledgements](#acknowledgements)
 
 ## Technologies Used
@@ -22,7 +23,10 @@ This project is a responsive landing page developed as part of my internship at 
 - Toggleable menu bar for easy navigation on mobile devices.
 - Clean and modern UI with a focus on user experience.
 - Semantic HTML for better accessibility and SEO.
+- 
+## project Preview
 
+![Landing page Screenshot][]
 
 ## Acknowledgements
 
